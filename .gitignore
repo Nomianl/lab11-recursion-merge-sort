@@ -1,0 +1,13 @@
+# Compiled executables (Windows)
+*.exe
+
+# Compiled executables (Mac/Linux)
+book_repair_list_example
+repair_task_view
+delivery_view_practice
+
+# Intermediate object files
+*.o
+
+# Editor configuration
+.vscode/
